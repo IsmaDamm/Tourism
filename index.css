@@ -1,6 +1,7 @@
 h1{
     font-family: 'Times New Roman', Times, serif;
+    padding-top: 10px;
 }
-.presentation{
-    text-align: center;
+.m-0 vh-100 row justify-content-center aling-items-center{
+    background-image: none;
 }
