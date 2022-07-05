@@ -11,6 +11,11 @@ h2{
     color:aliceblue;
     font-size: 2rem;
 }
+.title p{
+    font-family:Arial, Helvetica, sans-serif;
+    color:aliceblue;
+    font-size: 1.2rem;
+}
 h4{
     font-family:Arial, Helvetica, sans-serif;
     color:aliceblue;
